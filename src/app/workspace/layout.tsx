@@ -1,4 +1,4 @@
-import Navbar from '@/app/projects/components/navbar';
+import Navbar from '@/app/workspace/components/navbar';
 
 export default function HomeLayout({
   children

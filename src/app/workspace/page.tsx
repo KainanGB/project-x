@@ -1,5 +1,5 @@
 import Tabs from './components/tabs';
-import Board from './components/board';
+import Board from './components/Board/board';
 
 export default function HomePage() {
   return (
